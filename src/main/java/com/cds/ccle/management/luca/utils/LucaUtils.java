@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+//Importaciones nuevas
 import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
 
